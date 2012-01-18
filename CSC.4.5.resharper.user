@@ -1,0 +1,567 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer>
+      <setting name="UsedSolutionBuilderID">0</setting>
+    </integer>
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="4C580762-C9CC-4013-8747-D61E99DA554A/f:Program.cs" caret="0" fromTop="5" />
+      <File id="4C580762-C9CC-4013-8747-D61E99DA554A/f:frmMain.Designer.cs" caret="45" fromTop="4" />
+      <File id="2CA5E485-CD31-45F2-B0CF-617496F06D2B/f:CountryDataTable.cs" caret="2871" fromTop="98" />
+      <File id="4C580762-C9CC-4013-8747-D61E99DA554A/f:ucAbstractTabContent.Designer.cs" caret="4750" fromTop="23" />
+      <File id="2CA5E485-CD31-45F2-B0CF-617496F06D2B/f:CallDataTable.cs" caret="2143" fromTop="101" />
+      <File id="4C580762-C9CC-4013-8747-D61E99DA554A/f:ucTabContent_Rate.cs" caret="784" fromTop="27" />
+      <File id="4C580762-C9CC-4013-8747-D61E99DA554A/f:TabContentType.cs" caret="0" fromTop="0" />
+      <File id="4C580762-C9CC-4013-8747-D61E99DA554A/f:ucTabContent_Country.cs" caret="0" fromTop="0" />
+      <File id="2CA5E485-CD31-45F2-B0CF-617496F06D2B/f:CallRow.cs" caret="285" fromTop="16" />
+      <File id="4C580762-C9CC-4013-8747-D61E99DA554A/f:MustBeOverridenException.cs" caret="0" fromTop="0" />
+      <File id="2CA5E485-CD31-45F2-B0CF-617496F06D2B/f:CountryRow.cs" caret="74" fromTop="4" />
+      <File id="4C580762-C9CC-4013-8747-D61E99DA554A/f:frmMain.cs" caret="991" fromTop="41" />
+      <File id="4C580762-C9CC-4013-8747-D61E99DA554A/f:ucAbstractTabContent.cs" caret="2443" fromTop="72" />
+      <File id="4C580762-C9CC-4013-8747-D61E99DA554A/f:ucTabContent_Call.cs" caret="0" fromTop="0" />
+      <File id="2CA5E485-CD31-45F2-B0CF-617496F06D2B/f:DataProcessor.cs" caret="6582" fromTop="227" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="2CA5E485-CD31-45F2-B0CF-617496F06D2B/f:DataProcessor.cs" caret="6594" fromTop="212" />
+      <File id="2CA5E485-CD31-45F2-B0CF-617496F06D2B/f:DataProcessor.cs" caret="6594" fromTop="212" />
+      <File id="2CA5E485-CD31-45F2-B0CF-617496F06D2B/f:DataProcessor.cs" caret="6582" fromTop="212" />
+      <File id="2CA5E485-CD31-45F2-B0CF-617496F06D2B/f:DataProcessor.cs" caret="6582" fromTop="226" />
+      <File id="4C580762-C9CC-4013-8747-D61E99DA554A/f:TabContentType.cs" caret="0" fromTop="0" />
+      <File id="4C580762-C9CC-4013-8747-D61E99DA554A/f:ucAbstractTabContent.cs" caret="740" fromTop="37" />
+      <File id="4C580762-C9CC-4013-8747-D61E99DA554A/f:ucAbstractTabContent.cs" caret="1519" fromTop="57" />
+      <File id="2CA5E485-CD31-45F2-B0CF-617496F06D2B/f:DataProcessor.cs" caret="15" fromTop="1" />
+      <File id="2CA5E485-CD31-45F2-B0CF-617496F06D2B/f:DataProcessor.cs" caret="109" fromTop="6" />
+      <File id="4C580762-C9CC-4013-8747-D61E99DA554A/f:ucAbstractTabContent.cs" caret="993" fromTop="54" />
+      <File id="4C580762-C9CC-4013-8747-D61E99DA554A/f:ucAbstractTabContent.cs" caret="1097" fromTop="58" />
+      <File id="4C580762-C9CC-4013-8747-D61E99DA554A/f:ucTabContent_Call.cs" caret="738" fromTop="30" />
+      <File id="4C580762-C9CC-4013-8747-D61E99DA554A/f:ucTabContent_Call.cs" caret="948" fromTop="39" />
+      <File id="4C580762-C9CC-4013-8747-D61E99DA554A/f:ucTabContent_Call.cs" caret="1781" fromTop="72" />
+      <File id="4C580762-C9CC-4013-8747-D61E99DA554A/f:ucTabContent_Call.cs" caret="1911" fromTop="76" />
+      <File id="4C580762-C9CC-4013-8747-D61E99DA554A/f:ucTabContent_Call.cs" caret="2566" fromTop="36" />
+      <File id="4C580762-C9CC-4013-8747-D61E99DA554A/f:frmMain.cs" caret="6701" fromTop="23" />
+      <File id="4C580762-C9CC-4013-8747-D61E99DA554A/f:frmMain.cs" caret="5814" fromTop="35" />
+      <File id="2CA5E485-CD31-45F2-B0CF-617496F06D2B/f:DataProcessor.cs" caret="6002" fromTop="213" />
+      <File id="2CA5E485-CD31-45F2-B0CF-617496F06D2B/f:DataProcessor.cs" caret="5437" fromTop="196" />
+      <File id="2CA5E485-CD31-45F2-B0CF-617496F06D2B/f:DataProcessor.cs" caret="5814" fromTop="196" />
+      <File id="4C580762-C9CC-4013-8747-D61E99DA554A/f:ucAbstractTabContent.cs" caret="2435" fromTop="72" />
+      <File id="4C580762-C9CC-4013-8747-D61E99DA554A/f:ucAbstractTabContent.cs" caret="2903" fromTop="85" />
+      <File id="4C580762-C9CC-4013-8747-D61E99DA554A/f:ucTabContent_Call.cs" caret="0" fromTop="0" />
+      <File id="2CA5E485-CD31-45F2-B0CF-617496F06D2B/f:DataProcessor.cs" caret="6582" fromTop="41" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="private" priority="6" />
+      <Item value="const" priority="2" />
+      <Item value="string" priority="24" />
+      <Item value="public" priority="11" />
+      <Item value="static" priority="3" />
+      <Item value="void" priority="10" />
+      <Item value="Path" priority="5" />
+      <Item value="new" priority="13" />
+      <Item value="CallDirectionsDataTable" priority="0" />
+      <Item value="str" priority="2" />
+      <Item value="row" priority="3" />
+      <Item value="if" priority="40" />
+      <Item value="File" priority="0" />
+      <Item value="fileName" priority="2" />
+      <Item value="throw" priority="3" />
+      <Item value="FileNotFoundException" priority="0" />
+      <Item value="dirPath" priority="0" />
+      <Item value="gvCountry" priority="1" />
+      <Item value="Processor" priority="2" />
+      <Item value="WorkingFolder" priority="1" />
+      <Item value="lblCountryCount" priority="0" />
+      <Item value="cell" priority="2" />
+      <Item value="ColorDialog" priority="0" />
+      <Item value="int" priority="13" />
+      <Item value="id" priority="0" />
+      <Item value="ucTabContent" priority="3" />
+      <Item value="content" priority="5" />
+      <Item value="tabContent" priority="3" />
+      <Item value="tabControl1" priority="3" />
+      <Item value="return" priority="6" />
+      <Item value="gv" priority="6" />
+      <Item value="value" priority="3" />
+      <Item value="autoResizeColumns" priority="0" />
+      <Item value="setRowsCount" priority="0" />
+      <Item value="Dock" priority="0" />
+      <Item value="DockStyle" priority="0" />
+      <Item value="Application" priority="5" />
+      <Item value="TabPage" priority="2" />
+      <Item value="tabPageEnvironment" priority="0" />
+      <Item value="table" priority="6" />
+      <Item value="expr" priority="0" />
+      <Item value="max" priority="1" />
+      <Item value="_table" priority="2" />
+      <Item value="null" priority="13" />
+      <Item value="enum" priority="0" />
+      <Item value="name" priority="1" />
+      <Item value="TabContentType" priority="1" />
+      <Item value="MustBeOverridenException" priority="1" />
+      <Item value="base" priority="2" />
+      <Item value="ucCountryTabContent" priority="1" />
+      <Item value="protected" priority="2" />
+      <Item value="bool" priority="5" />
+      <Item value="file" priority="3" />
+      <Item value="case" priority="1" />
+      <Item value="break" priority="7" />
+      <Item value="else" priority="17" />
+      <Item value="caption" priority="3" />
+      <Item value="default" priority="2" />
+      <Item value="continue" priority="7" />
+      <Item value="as" priority="2" />
+      <Item value="decimal" priority="1" />
+      <Item value="ucRateTabContent" priority="1" />
+      <Item value="tabContentRate" priority="0" />
+      <Item value="catch" priority="0" />
+      <Item value="Exception" priority="0" />
+      <Item value="MessageBox" priority="4" />
+      <Item value="ex" priority="0" />
+      <Item value="loadData" priority="0" />
+      <Item value="indx" priority="1" />
+      <Item value="Cursor" priority="0" />
+      <Item value="Cursors" priority="0" />
+      <Item value="try" priority="0" />
+      <Item value="ListControl" priority="0" />
+      <Item value="List&lt;string&gt;" priority="0" />
+      <Item value="list" priority="0" />
+      <Item value="files" priority="0" />
+      <Item value="switch" priority="0" />
+      <Item value="ucCallTabContent" priority="0" />
+      <Item value="countryDataTable" priority="1" />
+      <Item value="DataView" priority="2" />
+      <Item value="dv" priority="8" />
+      <Item value="r" priority="3" />
+      <Item value="_tabContentCoutry" priority="1" />
+      <Item value="CountryTable" priority="0" />
+      <Item value="_tabContentRate" priority="0" />
+      <Item value="rv" priority="0" />
+      <Item value="c" priority="5" />
+      <Item value="Mobile" priority="0" />
+      <Item value="DataGridViewCheckBoxCell" priority="0" />
+      <Item value="country" priority="6" />
+      <Item value="Premium" priority="0" />
+      <Item value="ConvertEventHandler" priority="0" />
+      <Item value="col" priority="1" />
+      <Item value="true" priority="8" />
+      <Item value="GridView" priority="3" />
+      <Item value="delegate" priority="1" />
+      <Item value="BtnProcessClick" priority="0" />
+      <Item value="this" priority="5" />
+      <Item value="EventArgs" priority="0" />
+      <Item value="sender" priority="1" />
+      <Item value="calls" priority="1" />
+      <Item value="CallRow" priority="0" />
+      <Item value="while" priority="1" />
+      <Item value="Math" priority="2" />
+      <Item value="length" priority="13" />
+      <Item value="lblLoadedFiles" priority="1" />
+      <Item value="ucTabContent_Call" priority="0" />
+      <Item value="Update" priority="0" />
+      <Item value="ucAbstractTabContent" priority="2" />
+      <Item value="is" priority="0" />
+      <Item value="uc" priority="10" />
+      <Item value="rowView" priority="0" />
+      <Item value="count" priority="5" />
+      <Item value="false" priority="6" />
+      <Item value="stop" priority="3" />
+      <Item value="prevCount" priority="4" />
+      <Item value="prevLength" priority="1" />
+      <Item value="CountryRow" priority="1" />
+      <Item value="RegexOptions" priority="0" />
+      <Item value="call" priority="0" />
+      <Item value="maxLength" priority="2" />
+      <Item value="DateTime" priority="1" />
+      <Item value="prevCountry" priority="0" />
+      <Item value="CountryDataTable" priority="1" />
+      <Item value="i" priority="0" />
+      <Item value="cr" priority="0" />
+      <Item value="counter" priority="0" />
+      <Item value="folder" priority="2" />
+      <Item value="Directory" priority="0" />
+      <Item value="listFiles" priority="0" />
+      <Item value="txtFolder" priority="1" />
+      <Item value="FilePath" priority="0" />
+      <Item value="panelTop" priority="1" />
+      <Item value="btnChooseWorkingFolder" priority="0" />
+      <Item value="btnLoadFiles" priority="0" />
+      <Item value="_countries" priority="0" />
+      <Item value="_rates" priority="0" />
+      <Item value="tp" priority="0" />
+      <Item value="MessageBoxButtons" priority="1" />
+      <Item value="MessageBoxIcon" priority="1" />
+      <Item value="numericUpDown1" priority="0" />
+      <Item value="Button" priority="0" />
+      <Item value="btnExecute" priority="0" />
+      <Item value="btnExecute_Click" priority="0" />
+      <Item value="countriesTable" priority="0" />
+      <Item value="Form" priority="1" />
+      <Item value="FindForm" priority="0" />
+      <Item value="frm" priority="0" />
+      <Item value="Length" priority="0" />
+      <Item value="ConstraintException" priority="1" />
+      <Item value="BtnExecute" priority="1" />
+      <Item value="RateDataTable" priority="0" />
+      <Item value="internal" priority="0" />
+      <Item value="outFile" priority="0" />
+      <Item value="fName" priority="0" />
+      <Item value="outName" priority="0" />
+      <Item value="success" priority="0" />
+      <Item value="DialogResult" priority="0" />
+      <Item value="object" priority="0" />
+      <Item value="iIteration" priority="0" />
+      <Item value="lblProgress" priority="0" />
+      <Item value="ProgressText" priority="1" />
+      <Item value="number" priority="1" />
+      <Item value="IterationsCount" priority="0" />
+      <Item value="disposing" priority="0" />
+      <Item value="setDataSource" priority="0" />
+      <Item value="ActiveControl" priority="7" />
+      <Item value="AssemblyLoadEventHandler" priority="0" />
+      <Item value="Control" priority="1" />
+      <Item value="e" priority="2" />
+      <Item value="Leave" priority="0" />
+      <Item value="GotFocus" priority="0" />
+      <Item value="Environment" priority="0" />
+      <Item value="DataException" priority="1" />
+      <Item value="_filePath" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.Path">
+      <Item value="Combine" priority="0" />
+      <Item value="GetFileName" priority="4" />
+      <Item value="GetDirectoryName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ProcessingStuff.DataStores.CallDirectionsDataTable">
+      <Item value="NewCallDirectionsRow" priority="0" />
+      <Item value="Rows" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Split" priority="0" />
+      <Item value="Length" priority="5" />
+      <Item value="ToLower" priority="2" />
+      <Item value="StartsWith" priority="0" />
+      <Item value="IndexOf" priority="0" />
+      <Item value="Substring" priority="0" />
+      <Item value="Trim" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ProcessingStuff.DataStores.CallDirectionsRow">
+      <Item value="Code" priority="0" />
+      <Item value="FullName" priority="0" />
+      <Item value="ShortName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataRowCollection">
+      <Item value="Add" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.File">
+      <Item value="Exists" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridView">
+      <Item value="DataSource" priority="2" />
+      <Item value="Rows" priority="0" />
+      <Item value="Columns" priority="1" />
+      <Item value="AutoGenerateColumns" priority="0" />
+      <Item value="Focus" priority="5" />
+      <Item value="Select" priority="1" />
+      <Item value="Paint" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Processor.Processor">
+      <Item value="LoadCountries" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Label">
+      <Item value="Text" priority="6" />
+      <Item value="Update" priority="0" />
+      <Item value="Invalidate" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridViewRowCollection">
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridViewColumnCollection">
+      <Item value="Add" priority="0" />
+      <Item value="Contains" priority="0" />
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Processor.CallDirectionsDataTable">
+      <Item value="TableColumns" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Processor.CallDirectionsDataTable+TableColumns">
+      <Item value="CODE" priority="0" />
+      <Item value="FULL_NAME" priority="0" />
+      <Item value="SHORT_NAME" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridViewColumn">
+      <Item value="DataPropertyName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridViewCell">
+      <Item value="Style" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridViewCellStyle">
+      <Item value="BackColor" priority="0" />
+      <Item value="Alignment" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Color">
+      <Item value="Wheat" priority="0" />
+      <Item value="Ivory" priority="0" />
+      <Item value="LightYellow" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Processor.CallDirectionsRow">
+      <Item value="ID" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UI.ucTabContent">
+      <Item value="GridView" priority="0" />
+      <Item value="setRowsCount" priority="0" />
+      <Item value="setDataSource" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TabControl">
+      <Item value="TabPages" priority="2" />
+      <Item value="Update" priority="1" />
+      <Item value="Selected" priority="0" />
+      <Item value="SelectedTab" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TabControl+TabPageCollection">
+      <Item value="Add" priority="0" />
+      <Item value="Insert" priority="0" />
+      <Item value="Count" priority="0" />
+      <Item value="RemoveAt" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.DockStyle">
+      <Item value="Fill" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.Application">
+      <Item value="DoEvents" priority="3" />
+      <Item value="StartupPath" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Processor.CallDirectionsDataTable">
+      <Item value="CodeColumn" priority="0" />
+      <Item value="Select" priority="0" />
+      <Item value="Compute" priority="0" />
+      <Item value="DefaultView" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataView">
+      <Item value="RowFilter" priority="2" />
+      <Item value="Count" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataTable">
+      <Item value="Rows" priority="1" />
+      <Item value="Clear" priority="0" />
+      <Item value="Dispose" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UI.TabContentType">
+      <Item value="Country" priority="0" />
+      <Item value="Rates" priority="0" />
+      <Item value="Calls" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.Directory">
+      <Item value="GetFiles" priority="0" />
+      <Item value="Exists" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UI.ucCountryTabContent">
+      <Item value="clearData" priority="0" />
+      <Item value="FilePath" priority="0" />
+      <Item value="CountryTable" priority="1" />
+      <Item value="appendRates" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Processor.RateDataTable">
+      <Item value="NewRateRow" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Processor.RateRow">
+      <Item value="Direction" priority="1" />
+      <Item value="Desk1MinPrice" priority="1" />
+      <Item value="Mobile1MinPrice" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Decimal">
+      <Item value="Parse" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Processor.RateDataTable+TableColumns">
+      <Item value="DIRECTION" priority="2" />
+      <Item value="DESK1MIN_PRICE" priority="0" />
+      <Item value="MOBILE1MIN_PRICE" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Processor.DataProcessor">
+      <Item value="LoadRates" priority="0" />
+      <Item value="ProcessCalls" priority="0" />
+      <Item value="IterationFinished" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBox">
+      <Item value="Show" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Exception">
+      <Item value="Message" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.Cursors">
+      <Item value="WaitCursor" priority="0" />
+      <Item value="Default" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add" priority="0" />
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Processor.CallDataTable">
+      <Item value="NewCallRow" priority="0" />
+      <Item value="DefaultView" priority="0" />
+      <Item value="Rows" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Processor.CallRow">
+      <Item value="PhoneNumber" priority="2" />
+      <Item value="ElapsedSeconds" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="Parse" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Processor.CallDataTable+TableColumns">
+      <Item value="PHONE_NUMBER" priority="0" />
+      <Item value="ELAPSED_SECONDS" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Processor.CountryDataTable">
+      <Item value="Constraints" priority="0" />
+      <Item value="Columns" priority="0" />
+      <Item value="Rows" priority="0" />
+      <Item value="ImportRow" priority="0" />
+      <Item value="DefaultView" priority="0" />
+      <Item value="Count" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.ConstraintCollection">
+      <Item value="Add" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Processor.CountryDataTable">
+      <Item value="TableColumns" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Processor.CountryDataTable+TableColumns">
+      <Item value="CODE" priority="2" />
+      <Item value="SHORT_NAME" priority="0" />
+      <Item value="IS_MOBILE" priority="0" />
+      <Item value="RATE" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format" priority="2" />
+      <Item value="Empty" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UI.ucRateTabContent">
+      <Item value="RateTable" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataRowView">
+      <Item value="Row" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Processor.CountryRow">
+      <Item value="ShortName" priority="1" />
+      <Item value="IsMobile" priority="0" />
+      <Item value="Rate" priority="1" />
+      <Item value="IsOutOfPlay" priority="0" />
+      <Item value="IsIsOutOfPlayNull" priority="0" />
+      <Item value="FullName" priority="2" />
+      <Item value="Code" priority="3" />
+      <Item value="IsRateNull" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridViewCheckBoxCell">
+      <Item value="TrueValue" priority="0" />
+      <Item value="FalseValue" priority="0" />
+      <Item value="FlatStyle" priority="0" />
+      <Item value="Style" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.DataGridViewContentAlignment">
+      <Item value="MiddleCenter" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.EventArgs">
+      <Item value="Empty" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UI.ucCallTabContent">
+      <Item value="CallTable" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Math">
+      <Item value="Min" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UI.ucTabContent_Call">
+      <Item value="FilePath" priority="0" />
+      <Item value="IterationsCount" priority="0" />
+      <Item value="ButtonExecute" priority="0" />
+      <Item value="execute" priority="0" />
+      <Item value="Enabled" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Char">
+      <Item value="ToString" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
+      <Item value="Text" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Panel">
+      <Item value="Visible" priority="0" />
+      <Item value="Enabled" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Button">
+      <Item value="Enabled" priority="3" />
+      <Item value="Focus" priority="0" />
+      <Item value="Parent" priority="0" />
+      <Item value="Click" priority="0" />
+      <Item value="GotFocus" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UI.ucTabContent_Country">
+      <Item value="clearData" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TabPage">
+      <Item value="Dispose" priority="0" />
+      <Item value="Enabled" priority="0" />
+      <Item value="Controls" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBoxButtons">
+      <Item value="OK" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBoxIcon">
+      <Item value="Exclamation" priority="0" />
+      <Item value="Information" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.NumericUpDown">
+      <Item value="Value" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Control">
+      <Item value="Update" priority="0" />
+      <Item value="Paint" priority="0" />
+      <Item value="Focus" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UI.ucTabContent_Rate">
+      <Item value="RateTable" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DialogResult">
+      <Item value="OK" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.FolderBrowserDialog">
+      <Item value="SelectedPath" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UI.ucAbstractTabContent">
+      <Item value="Dispose" priority="0" />
+      <Item value="setGridViewFocus" priority="1" />
+      <Item value="GridView" priority="1" />
+      <Item value="restoreFocusOwner" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.Form">
+      <Item value="ActiveForm" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Form">
+      <Item value="ActiveControl" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TabControlCancelEventArgs">
+      <Item value="TabPageIndex" priority="1" />
+      <Item value="TabPage" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Environment">
+      <Item value="NewLine" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Processor.DigitNode">
+      <Item value="count" priority="1" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
